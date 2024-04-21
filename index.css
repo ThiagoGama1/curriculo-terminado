@@ -1,0 +1,67 @@
+h1 {
+
+    position: relative;
+    left: 450px;
+    color: brown; font-size: 70px;
+    align-items: center;
+       }
+       .fotominha{
+        position: relative;
+        left: 820px;
+        border: 10px;
+        border-radius: 50%;
+        box-shadow: 0 0 35px rgba(8, 7, 7, 0.849);
+
+        
+       }
+    
+       body{
+        background-color: bisque;
+       }
+       h2,h3,h4{
+        color: brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30;
+       }
+       p{
+        font-style: italic;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       }
+       header{
+        background-color:blanchedalmond
+       }
+       li{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18
+    }
+    h5, h6{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25;
+        color:brown
+    }
+    label{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: brown;
+        font-size: 18
+    }
+    h7{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30;
+        color:chocolate;
+        
+    }
+    th{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
+        font-size: larger;
+    }
+    td{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: purple;
+        font-size:15px;
+
+    }
+       
+       ;
+       
